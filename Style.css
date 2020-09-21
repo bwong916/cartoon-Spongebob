@@ -59,6 +59,10 @@ main img{
   max-height: 500px;
 }
 
+video{
+  margin: 0 770px;
+}
+
 .caption{
   color: black;
   font-style: italic;
